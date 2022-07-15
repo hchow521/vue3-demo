@@ -3,7 +3,7 @@ import store from '@/store'
 import routes from './routes'
 const router = createRouter({
   // createWebHashHistory
-  history: createWebHistory(),
+  history: createWebHistory('/vue3-demo/'),
   routes
 })
 router.beforeEach((to, from, next) => {

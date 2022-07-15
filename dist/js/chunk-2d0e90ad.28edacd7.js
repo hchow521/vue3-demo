@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e90ad"],{"8c9e":function(e,c,a){"use strict";a.r(c);a("ac1f"),a("5319"),a("b0c0");c["default"]={name:"redirect",created:function(){this.$router.replace(this.$route.params.name)}}}}]);
+//# sourceMappingURL=chunk-2d0e90ad.28edacd7.js.map
